@@ -1,8 +1,9 @@
 <?php
-$host = "localhost";
+$host = "containers-us-west-56.railway.app";
 $user = "root";
-$password = "";
-$database = "restapi";
+$password = "e1nj5D50lj6wpRDRpNwF";
+$database = "railway";
+$port = "7020";
 
-$db = mysqli_connect($host, $user, $password, $database);
+$db = mysqli_connect($host, $user, $password, $database, $port);
 ?>
