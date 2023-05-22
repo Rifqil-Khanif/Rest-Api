@@ -20,4 +20,4 @@ $db = mysqli_connect($host, $user, $password, $database, $port);
 ```
 
 
-# HANYA BISA MENAMPILKAN DATA,BELUM BISA ADD DAN DELETE KARENA BELUM DIBIKIN FORMNYA
+
