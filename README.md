@@ -1,6 +1,6 @@
 # Rest-Api
-
-[`Cek detailnya disini`](https://restap.up.railway.app/)<br>
+masih tahap penyempurnaan
+[`Cek detailnya disini`](datatest.up.railway.app)<br>
 
 ## Edit Config Untuk Menyambungkan Server Database
 
