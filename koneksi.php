@@ -1,9 +1,9 @@
 <?php
-$host = "containers-us-west-56.railway.app";
+$host = "containers-us-west-209.railway.app";
 $user = "root";
-$password = "e1nj5D50lj6wpRDRpNwF";
+$password = "PD83e11bgH4K9MzsSmHq";
 $database = "railway";
-$port = "7020";
+$port = "7145";
 
 $db = mysqli_connect($host, $user, $password, $database, $port);
 ?>
