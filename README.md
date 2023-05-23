@@ -1,7 +1,7 @@
 # Rest-Api
 masih tahap penyempurnaan
 ##
-> **Note**: Pastikan kamu sudah memiliki akun di website [Api Zeeoneofc](https://api.zeeoneofc.my.id/users/login)
+> **Note**: cek hasilnya [Disini](https://datatest.up.railway.app/)
 
 ## Edit Config Untuk Menyambungkan Server Database
 
