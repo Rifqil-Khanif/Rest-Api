@@ -1,7 +1,7 @@
 # Rest-Api
 masih tahap penyempurnaan
 ##
-> **Note**:  [Silahkan cek hasilnya disini]([https://api.zeeoneofc.my.id/users/login](https://datatest.up.railway.app/)) 
+> **Note**: silahkan [Silahkan cek hasilnya disini]([https://api.zeeoneofc.my.id/users/login](https://datatest.up.railway.app/)) 
 
 ## Edit Config Untuk Menyambungkan Server Database
 
